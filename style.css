@@ -1,3 +1,6 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
 *{    
     padding: 0%;
     margin: 0%;
@@ -14,7 +17,9 @@ nav img{
 ul{
     display: flex;
     font-size: 1.3em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
     align-items: center;
     list-style: none;
     gap: 2.5em;
@@ -40,8 +45,9 @@ main div{
 }
 #para1{
     font-size:4em ;
-    font-weight: 500;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Inter', sans-serif;
 }
 #para2{
     margin-bottom: 3%;
@@ -70,7 +76,9 @@ main div img{
 }
 .div2 p{
     font-size: 1.5em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Inter', sans-serif;
 }
 
 section img{
@@ -122,3 +130,4 @@ section img{
 .four-div-para{
     font-size: 1em;
 }
+
