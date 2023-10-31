@@ -91,7 +91,7 @@ section img{
 .section{
     display: flex;
     margin: 1% 4%;
-    gap: 25em;
+    gap: 15em;
 }
 #section-para{
     margin-top: 2%;
